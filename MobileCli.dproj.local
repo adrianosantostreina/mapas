@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/09/14 21:10:51.000.379,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 09:47:01.000.742,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 09:49:10.000.861,C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobile\uMain.pas</Transaction>
+    <Transaction>2018/03/01 09:49:10.000.861,C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobile\uMain.fmx</Transaction>
+    <Transaction>2018/03/01 09:49:21.000.230,C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobile\MobileCli.dproj</Transaction>
+    <Transaction>2018/03/01 12:28:45.000.371,=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2018/03/01 12:28:47.000.750,=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\ClientModuleUnit1.pas</Transaction>
+    <Transaction>2018/03/01 12:29:04.000.515,C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\ClientModuleUnit1.dfm=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\UntCM.dfm</Transaction>
+    <Transaction>2018/03/01 12:29:04.000.515,C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\ClientModuleUnit1.pas=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\UntCM.pas</Transaction>
+    <Transaction>2018/03/01 12:29:13.000.615,C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\ClientClassesUnit1.pas=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\Proxy.pas</Transaction>
+    <Transaction>2018/03/01 16:03:13.000.737,=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 17:21:47.000.785,C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\UntdmRest.pas=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 17:21:47.000.785,C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\UntdmRest.dfm=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\Unit1.dfm</Transaction>
+    <Transaction>2018/03/06 13:58:34.000.342,=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\Unit1.pas</Transaction>
+    <Transaction>2018/03/06 13:59:03.000.963,C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\Mobile.Utils.pas=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\Unit1.pas</Transaction>
+    <Transaction>2018/03/06 14:00:09.000.763,C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\UntLib.pas=C:\Novos Projetos\009-maestro-informatica\Projeto Entrega\mobileCLI\Mobile.Utils.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMac iOSSimulator="iPhone5"/>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+		<PmacOS iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
